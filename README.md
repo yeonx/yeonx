@@ -1,9 +1,6 @@
-### Hi there 👋
-
-
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonx&count_bg=%23F4ABD3&title_bg=%23737373&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-###  About me
+### 👩🏻‍💻 About me
 - 세종대학교(Sejong University)   
 - 스마트기기공학전공 (Smart Device Engineering)   
 - `2019.03` ~ `재학중`
