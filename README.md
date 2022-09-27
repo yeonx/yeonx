@@ -5,12 +5,12 @@
 - 세종대학교(Sejong University)   
 - 스마트기기공학전공 (Smart Device Engineering)   
 - `2019.03` ~ `재학중`  
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.instagram.com/___yeonx/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/___yeonx/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://yeonx.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://yeonx.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
