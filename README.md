@@ -3,17 +3,6 @@
 ## 👩🏻‍💻 About me 
 - 세종대학교(Sejong University) 
 - 스마트기기공학전공 (Smart Device Engineering)   
-<a href="https://www.instagram.com/___yeonx/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/___yeonx/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://yeonx.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=tistory&link=https://yeonx.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-  
   
 ## 🏆 수상 경력
 - `2020` 제 7회 SW 코딩경시대회(전공자 부문) 4등상 수상   
