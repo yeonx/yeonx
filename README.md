@@ -20,3 +20,7 @@
 - `2020.09` 컴퓨터 활용 능력 1급    
 - `2022.06` 정보처리기사
 - `2022.12` SQLD 자격증
+
+## ⌨️ 코딩
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydol2)](https://solved.ac/ydol2/)
+- `2023` HSAT 정기 코딩 인증 취득
